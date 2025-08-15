@@ -37,16 +37,17 @@ Installation -
 Clone the repository:
 
 git clone [https://github.com/yourusername/vehicle-tracking.git](https://github.com/TanmayR0X/Vehicle-tracking)
-cd vehicle-tracking
+ 
+   cd vehicle-tracking
 
-Install dependencies:
+   Install dependencies:
 
-npm install
+   npm install
 
 
 Start the development server:
 
-npm start
+   npm start
 
 
 The app will run at http://localhost:3000.
