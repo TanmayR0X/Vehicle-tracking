@@ -41,7 +41,7 @@ export default function InfoPanel({
 
   return (
     <div
-      className="absolute bottom-24 left-1/2 -translate-x-1/2 bg-white bg-opacity-90 text-black p-4 rounded-xl shadow-lg w-80 z-[2000] font-sans"
+      className="absolute bottom-24 left-1/2 -translate-x-1/2 bg-white bg-opacity-90 text-black p-3 rounded-xl shadow-lg w-80 z-[2000] font-sans"
     >
       {/* Close Button */}
       <button
