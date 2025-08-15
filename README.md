@@ -4,19 +4,19 @@ Vehicle Tracking Website
 
 A responsive vehicle tracking web application built with React, Tailwind CSS, and Leaflet for interactive map functionality. Track vehicle and get real-time updates in a sleek, user-friendly interface.
 
-Features
+Features - 
 
-Interactive map with Leaflet.
+1. Interactive map with Leaflet.
 
-Real-time vehicle movement simulation.
+2. Real-time vehicle movement simulation.
 
-Vehicle info panel with details like:
+3. Vehicle info panel with details like:
 
-Speed
+4. Speed
 
-Start and end locations
+5.Start and end locations
 
-Distance remaining
+6. Distance remaining
 
 Fully responsive design with Tailwind CSS.
 
@@ -32,13 +32,12 @@ Leaflet – Open-source JavaScript library for interactive maps.
 
 React Icons – For clean, scalable icons in the UI.
 
-Installation
+Installation - 
 
 Clone the repository:
 
-git clone https://github.com/yourusername/vehicle-tracking.git
+git clone [https://github.com/yourusername/vehicle-tracking.git](https://github.com/TanmayR0X/Vehicle-tracking)
 cd vehicle-tracking
-
 
 Install dependencies:
 
