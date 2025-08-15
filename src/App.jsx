@@ -1,7 +1,7 @@
 import { useEffect, useState, useRef } from "react";
 import MapView from "./components/MapView";
 import Controls from "./components/Controls";
-
+import "leaflet/dist/leaflet.css";
 export default function App() {
   const [latlngs, setLatlngs] = useState([]);
   const [routeSteps, setRouteSteps] = useState([]); // store distances & durations
